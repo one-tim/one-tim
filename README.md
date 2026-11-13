@@ -31,9 +31,7 @@
 
 <div align="center">
 
-  [![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-tim&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6)](https://github.com/one-tim)
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=one-tim&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6)](https://github.com/one-tim)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=one-tim)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
