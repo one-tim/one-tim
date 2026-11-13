@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim!</h1>
 
----
 
 ### 👨‍💻 About Me
 
