@@ -31,7 +31,9 @@
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=one-tim)](https://github.com/stats-organization/github-stats-extended)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=one-tim&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=one-tim&show_icons=true&include_all_commits=true&theme=dark_github)
+
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=one-tim&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=one-tim&langs_count=4&theme=dark_github)
 
 </div>
 
