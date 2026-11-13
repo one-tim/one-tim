@@ -29,12 +29,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=one-tim&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt="Tim's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-tim&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
-</p>
+<div align="center">
+
+  [![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-tim&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6)](https://github.com/one-tim)
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=one-tim&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6)](https://github.com/one-tim)
+
+</div>
 
 ---
 <p align="center">
