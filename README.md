@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student at TU Darmstadt 🎓</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=one-tim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -30,10 +30,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt="Tim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=one-tim&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt="Tim's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-tim&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
 </p>
 
 ---
